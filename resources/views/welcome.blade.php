@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 53</div>
+                <div class="title">Laravel 599</div>
             </div>
         </div>
     </body>
